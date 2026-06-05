@@ -39,3 +39,10 @@ Document refusal + redirection behavior for SOC/AI Safety portfolio.
 - MITRE ATT&CK mapping for defense
 - ISO 27035 incident response awareness
 - Professional documentation under pressure/typos
+
+
+
+<img width="576" height="1280" alt="5843797305864162744" src="https://github.com/user-attachments/assets/69961b98-256a-4801-aba5-f6b03320376d" />
+<img width="576" height="1280" alt="5843797305864162743" src="https://github.com/user-attachments/assets/99a6f2a1-6b0d-414c-9f0d-bb6762608f43" />
+<img width="576" height="1280" alt="5843797305864162742" src="https://github.com/user-attachments/assets/c9e909e0-6fda-43d2-aee7-a351c194fe22" />
+
